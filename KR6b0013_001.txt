@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:50.211404
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:51
 #+TITLE: 長壽王經
 #+PROPERTY: CBETA_ID T03n0161
 #+PROPERTY: ID KR6b0013
@@ -250,7 +250,7 @@ No. 161 [No. 152(10)]¶
 　亦以法流布，
 　弟子樂受行，¶
 　令天人鬼龍，
-　敬受頭面禮。
+　敬受頭面禮。」
 #+END_VERSE
-」¶
+¶
 佛說長壽王經
